@@ -1,0 +1,45 @@
+# Arquivos Binários e de Objeto
+**/[Bb]in/
+**/[Oo]bj/
+**/[Ll]og/
+
+# Arquivos de Símbolos
+*.pdb
+
+# Arquivos gerados durante a execução
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pidb
+*.cache
+*.vs/
+*.vscode/
+
+# Pacotes NuGet
+**/[Pp]ackages/
+*.nupkg
+*.snupkg
+
+# Ferramentas do Visual Studio
+_ReSharper*/
+_TeamCity*
+
+# Arquivos de Build
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Arquivos diversos
+*.docstates
+
+# Arquivos de projeto Rider
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.Temp
+*.tmp_proj
+
+# Outros arquivos e dir
